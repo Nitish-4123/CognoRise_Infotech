@@ -1,0 +1,1 @@
+This directory is for storing trained machine learning models. Due to size constraints, the models are not saved in this repository, but the code is automated to save the models in this folder.
